@@ -1,3 +1,3 @@
 from scrapy.cmdline import execute
 
-execute(['scrapy','crawl','stock'])
+execute(['scrapy','crawl','50etfes'])
